@@ -1,0 +1,17 @@
+comando para a navegar entre diretorios
+cd
+para abrir um diretorio usamos o comando: cd e o nome do diretorio
+ex.: cd home -> abrindo a pasta home
+
+pwd
+comando que vai mostrar onde estamos, ou seja, qual diretorio você está.
+
+ls
+o comando ls (listar) permite exibir uma lista de arquivos em um
+diretorio. ele possui algumas flags (opções de comando).
+ex.: exibir arquivos e pasta, inclusive os ocultos
+ls  -la
+
+mkdir
+o comando cria diretorios. por isso o seu nome é mkdir (make directory)
+ex.: mkdir dados
